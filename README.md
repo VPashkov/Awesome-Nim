@@ -172,6 +172,7 @@ It tests package installation and generates documentation using "nim doc".
 ## Services
 
 * [Luntic](https://github.com/xxlabaza/luntic) - Lightweight REST in-memory discovery service. [Apache-2.0]
+* [Skybook](https://github.com/muxueqz/skybook) - Light weight bookmark manager(delicious alternative). [GPL2]
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
@@ -216,6 +217,8 @@ It tests package installation and generates documentation using "nim doc".
 ### Generating HTML
 
 * [HastyScribe](https://github.com/h3rald/hastyscribe) - Self-contained markdown compiler generating self-contained HTML documents. https://h3rald.com/hastyscribe
+* [nim-markdown](https://github.com/soasme/nim-markdown) - A Beautiful Markdown Parser in the Nim World. [MIT]
+* [kun](https://github.com/muxueqz/kun) - a small static site generator. [GPL2]
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
@@ -233,6 +236,7 @@ It tests package installation and generates documentation using "nim doc".
 * [cligen](https://github.com/c-blake/cligen) - Infer & generate command-line interace/option/argument parsers [MIT]
 * [docopt.nim](https://github.com/docopt/docopt.nim) - Command-line args parser [MIT]
 * [commandeer](https://github.com/fenekku/commandeer) - Provides a small command line parsing DSL (domain specific language) [MIT]
+* [LiveReload](https://github.com/muxueqz/LiveReload) - Live reload utility for Go/Nim web servers. [GPL3]
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
