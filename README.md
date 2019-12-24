@@ -217,6 +217,10 @@ It tests package installation and generates documentation using "nim doc".
 
 * [HastyScribe](https://github.com/h3rald/hastyscribe) - Self-contained markdown compiler generating self-contained HTML documents. https://h3rald.com/hastyscribe
 
+### Static Site Generators
+
+* [Pine](https://github.com/thebigbaron/pine) - Nim Static Blog Generator. https://thebigbaron.github.io/pineblog/
+
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
 # Development Tools
